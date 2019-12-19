@@ -7,8 +7,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil/hdkeychain"
+	"github.com/9z25/btcd/chaincfg"
+	"github.com/9z25/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed
